@@ -11,7 +11,7 @@
 | [`day01_lab.ipynb`](day01_lab.ipynb) | Đã chạy và lưu output của các phần có thể chạy |
 | [`lab1_report.json`](lab1_report.json) | Đã tạo; 15/15 kiểm tra đạt, có 10 dự đoán |
 | [`run_proof.png`](run_proof.png) | Ảnh chụp ô báo cáo cuối, xác nhận 15/15 kiểm tra |
-| [`hand_calc.jpg`](hand_calc.jpg) | Đã đính kèm; ảnh hiện thể hiện phép baseline accuracy, còn thiếu bốn phép tính tay khác |
+| [`hand_calc.jpg`](hand_calc.jpg) | Đã cập nhật bằng ảnh tính tay mới với năm phép tính |
 
 Phần gọi LLM không có kết quả đủ mẫu: `gpt-6-luna` chạm giới hạn 50 yêu cầu/ngày trong thí nghiệm 4.A; `gpt-6.1-terra` báo tài khoản hết credits. Notebook ghi rõ giới hạn và tiếp tục chạy các phần không dùng API. Không suy diễn F1 hoặc chi phí LLM từ kết quả dở dang.
 
